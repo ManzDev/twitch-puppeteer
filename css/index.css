@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+
+body {
+  background: #222;
+  background-image: linear-gradient(#4a0080, #5340ca);
+}
+
+h1 {
+  color: #fff;
+  font-family: Orbitron;
+  font-size: 3rem;
+  text-align: center;
+  margin: 3rem;
+}
+
+.page {
+  width: 1280px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 40px;
+}

@@ -1,0 +1,9 @@
+[
+  { "name": "iconoir", "url": "https://iconoir.com/" },
+  { "name": "scrollex", "url": "https://scrollex-docs.vercel.app/" },
+  { "name": "shadcn", "url": "https://ui.shadcn.com/" },
+  { "name": "roughnotation", "url": "https://roughnotation.com/" },
+  { "name": "astro", "url": "https://astro.build/" },
+  { "name": "eleventy", "url": "https://11ty.dev/" },
+  { "name": "caniuse", "url": "https://caniuse.com/" }
+]

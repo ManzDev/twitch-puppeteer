@@ -1,0 +1,19 @@
+{
+  "name": "twitch-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "scraping": "node index.js",
+    "dev": "servor . --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mitt": "^3.0.0",
+    "puppeteer": "^19.7.0",
+    "servor": "^4.0.2"
+  }
+}
